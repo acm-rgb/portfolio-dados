@@ -27,18 +27,6 @@ de bebidas.
 
 - Python 3.x | Pandas | NumPy | Matplotlib | Seaborn | Plotly
 
-## Estrutura
-01_eda_cervejas_brasil/
-├── data/
-│   ├── raw/          # dataset original (não versionado)
-│   └── processed/    # dados tratados
-├── notebooks/
-│   └── 01_eda.ipynb
-├── reports/
-│   └── figures/
-├── requirements.txt
-└── README.md
-
 ## Como Reproduzir
 
 ```bash
